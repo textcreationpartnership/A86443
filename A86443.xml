@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reading in Lincolnes-Inne, Feb. 28. 1641. Vpon the stat. of 25. E.3. cap. 2. being the statute of treasons. / By Robert Holborne, Esq.</title>
+            <author>Holborne, Robert, Sir, d. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86443</idno>
+            <idno type="STC">Wing H2374</idno>
+            <idno type="STC">Thomason E246_14</idno>
+            <idno type="STC">ESTC R19470</idno>
+            <idno type="EEBO-CITATION">99860677</idno>
+            <idno type="PROQUEST">99860677</idno>
+            <idno type="VID">112802</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112802)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reading in Lincolnes-Inne, Feb. 28. 1641. Vpon the stat. of 25. E.3. cap. 2. being the statute of treasons. / By Robert Holborne, Esq.</title>
+                  <author>Holborne, Robert, Sir, d. 1647.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the Vniversity.,</publisher>
+                  <pubPlace>Oxford: :</pubPlace>
+                  <date>Anno Dom. 1642. [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A short legal treatise in three lectures on the definition and penalties of treason, obviously reprinted at this time, nearly a year after the delivery of the lectures, to show support of the King.--Cf. Madan.</note>
+                  <note>Annotation on Thomason copy: "Feb: 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112802:1" rendition="simple:additions"/>
+            <p>THE READING IN LINCOLNES-INNE, <hi>FEB.</hi> 28. 1641. Vpon the STAT. of 25. E. 3. cap. 2. Being the Statute of <hi>TREASONS.</hi>
+            </p>
+            <p>By <hi>ROBERT HOLBORNE,</hi> Eſq.</p>
+            <p>
+               <q xml:lang="lat">Indici conjurationis praemia constituta.</q> 
+               <bibl>Saluſt. in Conjur. Caril.</bibl>
+            </p>
+            <p>
+               <hi>OXFORD:</hi> Printed by <hi>Leonard Lichfield,</hi> Printer to the Vni<g ref="char:EOLhyphen"/>verſity. <hi>Anno Dom.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112802:2"/>
+            <pb n="1" facs="tcp:112802:2"/>
+            <head>The Reading of ROBERT HOLBORNE in <hi>Lincolnes-Inne,</hi> Eſq. <hi>Feb.</hi> the 28. 1641. Vpon the Stat. of 25. E. 3. c. 2. being the Stat. of <hi>TREASONS.</hi>
+            </head>
+            <p>BEfore the Statute, Treſpaſſes were made Felonies, and Felonies were made Treaſons; and we could not judge which were Felonies, and which were Treaſons,
+<note place="margin">
+                  <hi>The parts of the Statute, are firſt, De<g ref="char:EOLhyphen"/>clarative. High trea<g ref="char:EOLhyphen"/>ſon. Pettie trea<g ref="char:EOLhyphen"/>ſon. And ſecond<g ref="char:EOLhyphen"/>ly, Directive High trea<g ref="char:EOLhyphen"/>ſon.</hi>
+               </note> but it did reſt in the breſt of the Judges that were in thoſe dayes: for the preventing of which miſchiefe, this Statute which I now read upon was made which hath two parts: A Declara<g ref="char:EOLhyphen"/>tive part; and that doth declare what hereafter ſhall be judged Treaſon: and trea<g ref="char:EOLhyphen"/>ſon alſo is commonly divided into two parts: that is,</p>
+            <p>Firſt, high Treaſon that is againſt the perſon of the King, and that will fall out for this dayes worke. Secondly, petty treaſon, which is in the latter part of the Statute, as will appeare hereafter.</p>
+            <p>The ſecond part of this Statute is the Directive part; and directs the Judges how far to proceed upon a Fact that is not within the Statute.</p>
+            <p>High treaſon is againſt the perſon of the King, or againſt his government, <hi>viz.</hi> as againſt his Judges, Seales and Coynes: theſe are the Diviſions that I ſhall make of this Law.</p>
+            <div type="definition">
+               <head>The Definition of Treaſon.</head>
+               <p>
+                  <note place="margin">
+                     <hi>The Defini<g ref="char:EOLhyphen"/>tion of trea<g ref="char:EOLhyphen"/>ſon.</hi>
+                  </note>It is <hi>Laeſa Majeſt.</hi> which comprehends the perſon of the King, and his Officers of Juſtice. For the perſon of the King and the treaſons that are committed more immediately againſt his perſon, and they are acts and perſons.</p>
+               <p>Perſons, they are of two ſorts; perſons againſt whom, and the perſons by whom theſe treaſon are committed: the acts, and they are divers:</p>
+               <p>As firſt compaſſing the death of the King: and for explanation of this word com<g ref="char:EOLhyphen"/>paſſing; it is an old word, ſignifying not a bringing to paſſe onely; but a going a<g ref="char:EOLhyphen"/>bout as you ſhall finde it in <hi>Britaine</hi> and the <hi>Mirrour of Justice;</hi> but it is ſince called in Latin <hi>Macinatio,</hi> or a going about,
+<note place="margin">1. <hi>Mar. Bro. tit. trea.</hi> 24.</note> and compaſſing is treaſon though no effect doe follow; as a compaſſing to kill the King though he be not kild ſo a com<g ref="char:EOLhyphen"/>paſſing without any other act is treaſon: but there may be an act done that doth effect the death of the King and yet no treaſon, if there be no compaſſing: as in
+<pb n="2" facs="tcp:112802:3"/>the caſe of Sir <hi>Walter Turrell,</hi> who ſhooting at a Deere, his arrow glanced againſt a tree,
+<note place="margin">
+                     <hi>Hollinſhead.</hi>
+                  </note> and ſtrucke King <hi>William Ruſus</hi> upon the breſt that he died; and this was not treaſon, becauſe the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e was no compaſſing: And ſo it is in the caſe of a Phyſi<g ref="char:EOLhyphen"/>tian as if the King takes payſick and dyes of the phyſicke working, yet if it be not notoriouſly groſſe, and it doth not appeare that he did any way compaſſe the death of the King, this is not treaſon within this Law; for in the caſe of a common per<g ref="char:EOLhyphen"/>ſon, if a Phyſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ian give one phyſicke whereof he dyes, this is not Felony in him, although the Phyhtian had no licence to practice Phyſicke; for it is his fault that he will take phyſicke of him; and <hi>volenti noſit injuria.</hi> If the Prince in perſon aſſaults a man, and drives him ſo hard againſt the wall that if hee doth not defend himſelfe he will kill him and he cannot doe it without danger to the Prince; in that caſe he ought not to defend himſelfe, but ought rather to dye then hazard the perſon of the Prince, becauſe he is <hi>caput &amp; ſalus Repub.</hi> and yet nature doth teach a man to defend himſelfe againſt all danger. And thus much for acts with<g ref="char:EOLhyphen"/>out compaſſing: and yet ſome of theſe acts that are without compaſſing are left to the Jurie to judge of and ſome others are left to the Judges to judge of, as by preſumption of Law; as in Murder there ought to be malice forethought and yet if an Officer, in executing of his office be ſlaine, this is Murder by the Law, and yet in this caſe there doe not appeare any malice forethought, and ſo in this caſe the Law makes an evidence for the Jurie, and ſo in deeds of the like caſes.</p>
+               <p>The ſecond Act is violating; and this word is derived of <hi>vi perdendo,</hi> but yet it may be done without any force at all.</p>
+               <p>The third act is levying warre againſt the King; &amp; what ſhall be ſaid of levying warre,
+<note place="margin">
+                     <hi>See Saint Johns argu<g ref="char:EOLhyphen"/>ment in Sher<g ref="char:EOLhyphen"/>ly of Shef<g ref="char:EOLhyphen"/>fields caſe.</hi>
+                  </note> that may be divers wayes: as if the Inhabitants of a Town will gather themſelves together to pul downe the fences of a Common, in which they have no intereſt, or Common nor ever had, this is treaſon within this Law; but if they had an intereſt or Common there, then it is no treaſon, but if they ſhall doe it by force of Armes in a warlike manner, <hi>qu:</hi> but in the firſt caſe it is a levyings of war againſt this government.</p>
+               <p>Another levying of war may be againſt the King, as if it be to the diſplacing of his Officers,
+<note place="margin">
+                     <hi>Nota.</hi>
+                  </note> as in the Earle of <hi>Eſſex</hi> caſe in his comming to the Citty of <hi>London</hi> for to remove Officers that were about the Queen this was treaſon; and ſo it is alſo to the ſame purpoſe in 1.
+<note place="margin">1. <hi>Mar. Dy<g ref="char:EOLhyphen"/>er</hi> 14. <hi>Brooke tit. Treaſon</hi> 14.8. <hi>Hen.</hi> 8.</note> 
+                  <hi>Mar. Dyer.</hi> 24. &amp; ſo it appeares <hi>a man may levy war againſt the King, although he hath no intent to meddle with the perſon of the King</hi> or any way to hurt him, &amp; ſo you ſhal finde it alſo in <hi>Bro. title treaſon</hi> 14. <hi>And if any levy war without the King, this is a levying of warre within the Law.</hi> 8. <hi>H.</hi> 8. If two con<g ref="char:EOLhyphen"/>ſpire to levy warre and one alone doth it, this is treaſon in both.</p>
+               <p>The fourth part is to adhere to the Kings Enemies, and firſt who ſhall be ſaide<g ref="char:EOLhyphen"/>nemies within this Law;
+<note place="margin">
+                     <hi>Nota. See Iriſh ſta<g ref="char:EOLhyphen"/>tute. p.</hi>
+                  </note> ſecondly, what ſhall be ſaid adhering to them that are enemies within this Law; this word <hi>Enemy cannot extend to ſubjects, for they are Rebels</hi> and no enemies, and ſo it is expreſt in the <hi>Iriſh</hi> ſtatutes, and this ſtatute can<g ref="char:EOLhyphen"/>not be taken according to equity, for it is a penall Law, and of the greateſt pe<g ref="char:EOLhyphen"/>penalty
+<pb n="3" facs="tcp:112802:3"/>that is, and therefore the <hi>aiding of Rebels cannot be meant any way the aiding of the Kings enemies within this Law;</hi> aiding the enemies within or with<g ref="char:EOLhyphen"/>out is an aiding of thoſe that come into the Land, or of thoſe that are with<g ref="char:EOLhyphen"/>out; a Subject is of two ſorts, <hi>ratione originis</hi> and a Subject <hi>ratione loci.</hi>
+                  <note place="margin">
+                     <hi>Subjects</hi> 2. <hi>ſorts.</hi> 1. <hi>Ratione Origenis.</hi> 2. <hi>Ra. Loci.</hi>
+                  </note>
+               </p>
+               <p>A Subject <hi>rationi originis,</hi> cannot be an enemy, although he doth levy warre (inreſpect of his obedience) but a rebell he ſhall be.</p>
+               <p>A Subject <hi>rationi loci,</hi> during his reſidence here, he can be no enemy neither, but if he goeth over Sea, and then levy warre againſt this Kingdom or any other of his majeſties Kingdoms, he is then an enemy within this Law and no Rebell.</p>
+               <p>There is alſo <hi>Dominum rectum, et Dominum utile,</hi>
+                  <note place="margin">
+                     <hi>Dominum duplex.</hi>
+                  </note> for if a man be born within the <hi>dominum rectum,</hi> as that of <hi>Scotland</hi> in ancient time, and there he levy war, he is an enemy and no rebell; but if he be borne within the <hi>dominum utile,</hi> and levy warre, he is a rebell and not an enemy.</p>
+               <p>Aiding, is by ſending of them aide, as of victuals, or of weapons, and the like, by <hi>giving of them counſell,</hi> or by any other way, whereby they may receive ſtrength or comfort from him.</p>
+               <p>Now for the perſons by whom this levying of warre may be, and as to that <hi>all levies are within this Law,</hi> aſwell women as men for women are comprehen<g ref="char:EOLhyphen"/>ded under this word man.</p>
+               <p>Secondly, <hi>perſons of all nations,</hi> that are within this Land, are within this Law, for as they ſhall have protection by the Lawes of the Land, and they ought at their perill to take notice of the Law, ſo ſoone as they come into the Land, for they ought to have notice given them and cannot alleage ignorance if it be not given them; eſpecially in ſuch Lawes as this that are ſo beneficiall both to the King and Kingdome.</p>
+               <p>Thirdly, <hi>perſons of all degrees,</hi> as a Queen that is married to the King attempt<g ref="char:EOLhyphen"/>ing the death of the King, is within this Law: A forraigne Embaſſadour is al<g ref="char:EOLhyphen"/>ſo within this Law, but if a forraign King ſhould come into this Land by licence and here compaſſe the death of the King, the queſtion will be how he ſhall be tried, for, he is a King here, and therefore ought to be tried <hi>per Pares,</hi> which he cannot be, for other honours are not allowed here.</p>
+               <p>Fourthly, all ages are within this Law, as in faults which have knowledge or men of <hi>non ſanae memoriae,</hi> and a mad man is alſo within this Law, as to that part of the ſtatute which concernes more immediately the perſon of the King, for if any of them afore mentioned in this diviſion, ſhal compaſſe his death, it is treaſon within the firſt clauſe, but not in the clauſe of levying warre, as I ſhall ſhew you afterwards; but a man that is <hi>ſurdus, caecus et mutus, is not within this Law,</hi> for it is impoſſible for him to have underſtanding.
+<note place="margin">
+                     <hi>Northum<g ref="char:EOLhyphen"/>berlands caſe.</hi>
+                  </note>
+               </p>
+               <p>Now for the perſons againſt whom a King before his Coronation is within this law, as it is in the Duke of <hi>Northumberlands</hi> caſe, for he is preſently a King,
+<pb n="4" facs="tcp:112802:4"/>as ſoon as the other King deceaſeth, and there is no interregnum for the King; <hi>Quatenus</hi> a King, never dyeth, but he is ſaid to demiſe, when he departs this life, and the King is crowned, becauſe he is a King, and not a King becauſe he is Crowned a King,
+<note place="margin">
+                     <hi>See</hi> 4. <hi>E.</hi> 4.1.9. <hi>F.</hi> 4.12.</note> 
+                  <hi>de facto</hi> and not <hi>de jure, is a King within this Law,</hi> as it is in 4. <hi>E.</hi> 4.1. and 9. <hi>E.</hi> 4.12. A King conjugall or maritall, that takes to wife the Queene of <hi>England</hi> is within this Law, a Queene that is maried, although the mariage be voyd, yet that Queene is within this Law, ſo is a Queene maried by <hi>proxie,</hi> a Queene, a Queene within age is alſo within this Law.</p>
+            </div>
+            <div n="1" type="part">
+               <head>The firſt Caſe.</head>
+               <p>I. S.
+<note place="margin">
+                     <hi>Firſt Caſe.</hi>
+                  </note> after the divorce of the wife of the Grandchild, and Heire-apparent to the Queen, doe violate her, and imagine the death of the husband, and declares this to I. D. and after kils the husband of the Queen, and conſpire to levy warre a<g ref="char:EOLhyphen"/>gainſt the Queene, and delivers to I. D. mony to buy armes and after becomes mad, and aids the enemies of the Queene within the Realme, and then kill the Queene.</p>
+               <p>The concluſion is, firſt I. S. is a traytor within this Law, for killing the husband of the Queen and for conſpiring to levy warre, and for killing of the Queen, and in every one of theſe.</p>
+               <p>The ſecond concluſion, that I. S. is not a traytor within this Law, for imagining the death of the Grandchild, and yet he is within the caſe of the Law, not for violating of his wife, nor for aiding of the enemies.</p>
+               <p>I. S. is a traytor within this Law for killing the husband of the Queene, but not within theſe words, that whoſoever ſhall conſpire or compaſſe the death of the King; for as to that clauſe he is not King, for the Queene is regent and not he, and ſo not within that clauſe, nor the meaning of it, but he is within this word Companion, for he is as good a companion to the Queene, as the Queene is to the King, and ſo within the ſame reaſon of Law; for the husband of the Queene in ſuch a caſe is in a better condition and plight then a Queene to a King and ſo upon a ſtronger reaſon; but this you muſt take as a rule that I have ſaid before, <hi>viz.</hi> that this Statute is not to be taken by equity; and this you ſhall finde as another rule, as well for the expounding this Statute as any o<g ref="char:EOLhyphen"/>ther;
+<note place="margin">
+                     <hi>Bro. tre. ſol.</hi> 12.12. <hi>aſſ. pl.</hi> 30.19. <hi>H.</hi> 6.47. <hi>Com.</hi> 87.6. <hi>Fitz. Cor.</hi> 7.118. <hi>Brooks tuareaſ.</hi> 8.</note> that thoſe caſes that ſtands upon the ſame reaſon ſhall be within the ſame Law, although not taken by equity; for where there is the ſame identity, pa<g ref="char:EOLhyphen"/>ritie, or majority of reaſon in any caſes there ought to be the ſame Law, as it is in the ſtatute of <hi>Glooeſter</hi> concerning waſte, and in this our ſtatute, the mi<g ref="char:EOLhyphen"/>ſterics are not named, yet there is within this Law, for if the ſervant kils the wife of his Maſter, knowing her to be his Maſters wife, this is adjudged petty treaſon by the judgment of al the Judges of both Benches 19. H. 6.47. <hi>Com.</hi> 87.6. <hi>Fitz. Cor.</hi> 7.118. <hi>Bro. Tit. treaſon</hi> 8. For as well the Miſtris as the Maſter hath
+<pb n="5" facs="tcp:112802:4"/>aſſiance in him, and he ought to give reverence to his Miſtris, as well as his Ma<g ref="char:EOLhyphen"/>ſter, and yet the Maſter is onely named in this ſtatute; but in our caſe, the expreſſe words are, that if any man ſhall compaſſe the death of the Kings Com<g ref="char:EOLhyphen"/>panion it ſhall be treaſon, and ſo there is an expreſſe proviſo for him, being the Companion, for he is a Companion to the Queene: a ſecond difference betweene our caſe, and the caſe of the Miſtris is, that ſhee is his Miſtris but <hi>gratia,</hi> and under the power of her husband; but in our caſe the King maritall hath a ſuperiority over his wife, as he is her husband, and ſo our caſe is a farre ſtronger caſe.</p>
+               <p>If a child kils his Father or Mother, this is petty treaſon,
+<note place="margin">21. <hi>E.</hi> 3.17. <hi>Bro. tit. San<g ref="char:EOLhyphen"/>ctuarii<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Bro. tit. treaſ.</hi> 6.</note> and ſo it was alſo at the Common-law, before the making of this ſtatute, 21. <hi>E.</hi> 3.17. <hi>Bro. tit. Santuarii</hi> the 2. and <hi>Bro. tit.</hi> treaſon the 6. becauſe there is a majority of rea<g ref="char:EOLhyphen"/>ſon then that of a ſervant, the reaſon of the ſubmiſſion and duty that is to the Fa<g ref="char:EOLhyphen"/>ther and Mother from the child, and where there is a majority of reaſon, or a pa<g ref="char:EOLhyphen"/>ritie of reaſon for the one caſe as there is for the other, there is alwayes the ſame Law.</p>
+               <p>But you will object, there is a Satute made 1. &amp; 2. <hi>Ph. &amp; Mar.</hi> Cap. 9.
+<note place="margin">1 &amp; 2. <hi>Ph. &amp; Mar. ca.</hi> 9.</note> that if any ſhall imagine the death of the King, that it ſhalbe treaſon, and therefore he was not provided for before this ſtatute, and therefore this ſtature was made; if it were treaſon before this ſtatute, then this ſtatute was made in vaine and to no purpoſe.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> That that ſtatute, doth provide as well for the preſervation of the Queene, as for the King and makes it treaſon for any to compaſſe the death of the Queene, and therefore it cannot be concluded from thence, that it was not treaſon to com<g ref="char:EOLhyphen"/>paſſe her death before that ſtatute: the ſecond reaſon is, becauſe that ſtatute doth provide for other matters, as it doth there appeare.</p>
+               <p>The next poynt is the declaring, of this his imagination to I. D.
+<note place="margin">1. <hi>Mar. Bro. tit. treaſ.</hi> 24. <hi>The ſecond point.</hi>
+                  </note> which is an overt act, for an overt act is the declaring of his minde and intentions to others, by ſuch words as imply an act to follow, as by bidding a man to doe what he hath intended, or to do any act that may tend to his purpoſe, or by writing to de<g ref="char:EOLhyphen"/>clare his mind; but if a man have a thought of killing the King, this is onely <hi>primus motus</hi> and although he afterwards tels another that he had ſuch a thought, this is no overt act, but if he doth cheriſh this thought then it becomes his own, and then he tels it to another, that he hath ſuch an intention, this is an overt act, for the words that he doth ſpeak, are words <hi>executory,</hi> and imply that he will doe ſuch an act, or if A. conſpire with B. to kill the King this is an overt act; but to imagine with himſelfe, is not, becauſe it cannot come to be knowne; words of encouragement to others, is an obvert act alſo.</p>
+               <p>For <hi>conſpiring to levy warre</hi> is the next, and this is treaſon within this Law, although it be not within the words of the ſttatute, but yet it is within the mea<g ref="char:EOLhyphen"/>ning
+<pb n="6" facs="tcp:112802:5"/>and reaſon of the ſtatute,
+<note place="margin">
+                     <hi>Nota.</hi>
+                  </note> for how is it poſſible for any to levy warre, but he muſt conſpire the death of the King, or his depoſing at leaſt; and the conſpiring to do either of theſe, is treaſon within this law as aforeſaid, and that within this word compaſſing, which as I ſaid before, is of a very large extent, but I muſt confeſſe the intention, is not ſo bad an actuall levying of warre, and yet it is as bad in him that doth intend it; and this levying of warre, doth immediately looke at the perſon of the King though not immediately, and ſo in that reſpect it is treaſon, and ſo it is of depoſing, and ſo is the ſtatute of 1. <hi>E.</hi> 6. Cap. 12. and ſo you ſhall finde it in Doctor <hi>Stories</hi> caſe,
+<note place="margin">1. <hi>Ed.</hi> 6.12. <hi>Dyer, Storys Caſe.</hi> 13. <hi>Elizab. Dyer</hi> 298.</note> 13. <hi>Eliz. Dier</hi> 298. B. who did conſpire with a forraigne Prince to invade this Land, and ſhewed him a meanes how to conquer this Kingdome, and yet there was no act done by that Prince againſt the Queene, yet this is adjudged treaſon, and the reaſon there yelded, was, becauſe this invaſion could not poſſible be without great ha<g ref="char:EOLhyphen"/>zard and perrill to the perſon of the Queene, which is a very full caſe in pro<g ref="char:EOLhyphen"/>ving of this point;
+<note place="margin">19. <hi>II.</hi> 6.47.</note> but a conſpiring to coyne money, is not treaſon within this Law, becauſe it is not againſt the perſon of the King, but yet if two ſhall conſpire to coyne money, and one doth it alone without the other, yet this is treaſon in both.</p>
+               <p>
+                  <note place="margin">
+                     <hi>The third poynt.</hi>
+                  </note>The third point is that I. S. after he became mad, kils the Queene, this is treaſon within this Law, firſt, becauſe a man may counterfeit himſelfe to be mad, and he may doe it ſo cunningly as it cannot be diſcerned whether he be mad or no.</p>
+               <p>The ſecond reaſon, is in reſpect of the great eſteeme that the Law gives to the perſon of the King, for he is the fountaine of juſtice, and for the proofe of this point that it may be underſtood, we ought to ſee what the Common Law was before the making of this ſtatute, as to this point; and then we ought to inquire and ſee how the Law is altered ſince the making of the ſta<g ref="char:EOLhyphen"/>tute: and by this meanes, we ſhall finde out the Law and the reaſon thereof; it is true that the Law without ſpeciall words, will not binde an Infant or a mad man, as to the puniſhment of their bodies, but yet it will extend to their lands and eſtates; but this our law is no new law, but onely a declarative law, and in that caſe generall words will binde an infant or a mad man, with<g ref="char:EOLhyphen"/>out any ſpeciall words; that it was treaſon at the Common law is apparent in <hi>Britame,</hi> and the Mirrour of Juſtice, and this ſtatute doeth not declare who ſhall be traytors, but what ſhall be treaſon, and therefore this act is trea<g ref="char:EOLhyphen"/>ſon in a mad man,
+<note place="margin">
+                     <hi>See Bever<g ref="char:EOLhyphen"/>leys caſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> com.</hi> 124. <hi>Daltons Juſt.</hi> 206.</note> or whomſoever ſhall commit it, for a mad man, is not excepted out of this law; and to make this appeare more fully, you may be pleaſed to read the caſe of <hi>Beverley,</hi> in Com. 124. that a man that is <hi>non compus mentis</hi> may commit high treaſon, although he cannot commit petty treaſon nor felony, and ſo it is alſo in <hi>Daltons</hi> Juſtice of Peace 206.
+<pb n="7" facs="tcp:112802:5"/>that if a man that is <hi>non compos mentis,</hi> ſhall kill the King, this is high trea<g ref="char:EOLhyphen"/>ſon: nay <hi>Beverleys</hi> caſe goes furthur and ſaies; that if he ſhall offer onely to kill the King, this is high treaſon,
+<note place="margin">
+                     <hi>Nota.</hi>
+                  </note> becauſe the King is <hi>caput et ſalus Reipub. &amp; acapite bona valetudo tranſit in omnes,</hi> and for this caſe his perſon is ſo ſacred, that none muſt offer the leaſt violence to him, but he is <hi>reus criminis leſae Majestatis, et pereat unus, ne pereant omnes.</hi>
+               </p>
+               <p>The ſecond concluſion is, that I. S. is not a traytor within this Law, for imagining the death of the Grandchild, yet he is within the care and pro<g ref="char:EOLhyphen"/>tection of the Law, for he is not within the words of the Law, but with<g ref="char:EOLhyphen"/>out the intention and reaſon of the Law; for the words are, that if any man ſhall compaſſe the death of the eldeſt ſonne, that this is treaſon; but in the <hi>French</hi> language, in which this Law was firſt written, it is <hi>le regne fils et heire,</hi> and yet if the eldeſt ſonne dyes, the ſecond ſonne is within the Law, becauſe he is then the eldeſt ſonne, and ſo it is of the third ſonne, for then he is alſo Heire apparent, and he is within the intenti<g ref="char:EOLhyphen"/>on and meaning of this Law;
+<note place="margin">
+                     <hi>Princes caſe</hi> 8. <hi>ſepar.</hi>
+                  </note> and ſo to this purpoſe is the Princes caſe in 8. Separt. where it is that the ſecond ſonne ſhall be Duke of <hi>Cornwall</hi> af<g ref="char:EOLhyphen"/>ter the death of the eldeſt, and yet it is onely limitted to the eldeſt ſonne; a collatrall Heire is alſo within this ſtatute, becauſe as he conceiveth this ſtatute intend's to provide that the next Heire to the Crowne ſhall be ſe<g ref="char:EOLhyphen"/>cured from danger; and the caſe that may be likened to this, is that, where a writ of Aide may be brought by the next heire, for the writ ſaith, <hi>Cujus haeres apſe est.</hi> F. N. B. 221.
+<note place="margin">
+                     <hi>F. N. B.</hi> 221.</note> ſo that it appeares that it lyes onely for the heire lineall or collaterall, male or female.</p>
+               <p>The eldeſt daughter is alſo within our Law, <hi>heires Fous</hi> is alſo a grand heire within this Law, but this imagining or compaſſing the death of the Grandchild, or of any other heire is not treaſon, unleſſe there be a ſuf<g ref="char:EOLhyphen"/>ficient declaration of it to another, for no man can judge of the thoughts; for the imagination onely, can be no overt act, and this declaration of his imagination or compaſſing to I. D. is not a ſufficient overt act to make him a traytor within this Law; for he told him onely that he had ſuch an i<g ref="char:EOLhyphen"/>magination, which is but <hi>primus motus,</hi> for he doth not ſay that he will doe it in the Future tence, for that may be treaſon, for that it doth imply an act to be done afterward; but the other is onely alſo againſt that is paſt; then for violating the wife after that ſhe is divorc'd, this is not treaſon within this Law. And yet the divorce is but <hi>a menſa &amp; thoro</hi> but it is ſuch a divorce as deprives her of his company, and ſo ſhe is not his com<g ref="char:EOLhyphen"/>panion within this Law, but yet ſhe is his wife, and a wife divorc't <hi>a men<g ref="char:EOLhyphen"/>ſa et thoro</hi> ſhall have her divorce, becauſe that divorce doth not diſſolve the mariage, but ſhee remaines his wife ſtill; but yet if ſhee hath any
+<pb n="8" facs="tcp:112802:6"/>children during that divorce they are all baſtards, becauſe ſhee is not to keepe her husband company; a Queene <hi>Dowager</hi> is not within this Law, becauſe ſhe is not companion to the King, that then is and is not provi<g ref="char:EOLhyphen"/>ded for by this Law; for the words of the ſtatute are if any ſhall violate the Kings companion.</p>
+               <p>The ſecond lecture,
+<note place="margin">
+                     <hi>The ſecond Lecture.</hi>
+                  </note> according to my firſt deviſion is concerning the go<g ref="char:EOLhyphen"/>vernment; and that is firſt in the ſeale, which is <hi>clavis regnt;</hi> the ſecond in his money and coyne, the third in his offices: for the firſt which are the ſeales and they are firſt, the Great-Seale ſecondly the Privy-Seale and thirdly the Seale of the Exchequer, and of all theſe Seales, the Common-law takes ſpe<g ref="char:EOLhyphen"/>ciall notice, as that the King may grant to one power, to make Attourney under the Privy-Seale;
+<note place="margin">37. <hi>II.</hi> 6.27.6. <hi>Co.</hi> 2.17. <hi>Lams caſe.</hi>
+                  </note> and ſo is 37. H. 3.27. 6. <hi>Co.</hi> 2.17. <hi>Lams</hi> caſe, and ſo of the other Seales, but our Law takes notice of the Seale onely, as for poynt of treaſon, for the words are excluſive to all other Seales, for that being the greateſt excludes all other inferiour Seales that are the leaſt: now what ſhall be ſaid at counterſeiting of this great Seale and that muſt be, by making of another Seale like to this, and for to ſeale pattents with it for to make a ſeale like the great Seale, to put this to a peece of wax onely is no counterfiting of the great Seale, but there ought to be a writing annexed un<g ref="char:EOLhyphen"/>to it, and then it is a counterfitting within this Law: but if the Lord Keeper doth ſeale a pattent,
+<note place="margin">
+                     <hi>Nota.</hi>
+                  </note> without ſpeciall authority from the King, yet this is no counterfeiting within this Law, or if any one doe finde this great Seale or otherwayes obtain it, and ſeales pattents therewith, this is not coun<g ref="char:EOLhyphen"/>terfeiting neither within this Law, for if the Seale be cruely and in due man<g ref="char:EOLhyphen"/>ner put to a pattent, and afterwards the pattentee doth rate or adde to the pattent in any place,
+<note place="margin">
+                     <hi>Lakes eaſe</hi> 4. <hi>Jac.</hi>
+                  </note> this is no counterfeiting, as it is in <hi>Lakes</hi> caſe, 4. <hi>Jac.</hi> and yet the raſing of a deed is the forging of a deed.</p>
+               <p>Secondly, concerning counterfeiting the Kings coyne, and this ought to be intended onely of the Kings owne mony, for that onely is meant by this Law and not any forraigne money, but forraigne money is provided for by another Law,; the coyning of copper if it be made currant is alſo within this Law, for it is onely in the power of the King to imbaſe coyne, as it is appa<g ref="char:EOLhyphen"/>rent in the caſe of mony in <hi>Davies</hi> ſererts for the King is Maſter of the coyn,
+<note place="margin">
+                     <hi>Caſe of mony in Davies ſeperts.</hi>
+                  </note> but in the mirrour of Juſtice, it is ſaid, the King cannot alter his coyne, for things are not in this Law becauſe they are not currant within this Realme; forraigne money is not within this Law, becauſe at the time when this Law was made, all forraigne money that was brought into this Realme, was but bullon, becauſe it was a great deale worſer then that of this Nation: and for<g ref="char:EOLhyphen"/>raigners afterwards did make their coyne finer, and then it was made currant here by a ſtatute, and ſo within this Law.</p>
+               <pb n="9" facs="tcp:112802:6"/>
+               <p> If any that have authority and power to mint or coyne, and he coyne pieces that are leſte in weight then they ought to have beene, by the authority by him given, this is a counterfiting, becauſe he hath not purſued his authority, and ſo is as if he had no authority to make it of that weight, which he hath made it; and ſo is the 3. H. 7 <hi>c.</hi> 10. to counterfeit a forraigne money,
+<note place="margin">3. <hi>H.</hi> 7. <hi>c.</hi> 10.</note> and to bring it over is not a counterfeiting within this Law;
+<note place="margin">6. <hi>H.</hi> 7.13.1. <hi>R.</hi> 3.1. <hi>Bro. Tit. treaſon</hi> 27. <hi>Stam. pl.</hi> 3. <hi>D.</hi>
+                  </note> but if one counterfeit the covne of this Kingdome beyond the Sea, and brings it over and Marchan<g ref="char:EOLhyphen"/>dizes with it, and thereby deceave our Marchants, this is account fitting as in the book aforeſaid; and if one counterfeits the coyne of this Kingdome, although he doth not put it to others, yet this is a counterfiting within this Law 6. H. 7.13.1. <hi>H.</hi> 31. <hi>Bro. Tet.</hi> treaſ. 27. <hi>Stam.</hi> pleſ. 3. <hi>D.</hi>
+               </p>
+               <p>What ſhall we ſay the bringing in of money, what not? the bringing in of forraigne money, ought to be intended of money that is counterfeited in a<g ref="char:EOLhyphen"/>nother Realme, and like unto ours, for the words are ſo, money and not of forraigners money; if two conſpire to coyne and counterfeit,
+<note place="margin">19. <hi>H.</hi> 6.43. <hi>Stam. pl.</hi> 3.</note> and one of them doth it, it is treaſon in both. 19. H. 6.43. <hi>Stam.</hi> pleaſ. 3. <hi>a,</hi> but an intention to counterfeit, is not treaſon within this Law.</p>
+               <p>The Barrons of the Exchequer are within this Law, and it is agreed in <hi>Tanfields</hi> caſe (who was one of the Barrons of the Exchequer) that he was within the words of the ſtatute and the words of <hi>Oyer &amp; Determiner</hi> are with<g ref="char:EOLhyphen"/>in this Law, but all other Judges are not, as the Eccleſiaſticall Judges are not within this Law, for they hold with the Court of <hi>Rome</hi> and did derive their authority from him in ancient time; neither is a Conſtable within this Law.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond caſe.</head>
+               <p>I. S. ſlits the great Seale and cloſeth it to a Commiſſion, and coynes mo<g ref="char:EOLhyphen"/>ney in the forme of ſhillings <hi>invertendo</hi> the armes,
+<note place="margin">
+                     <hi>The ſecond caſe.</hi>
+                  </note> kils the Lord Keeper of the great Seale in Chancery, and brings in falſe money like <hi>Engliſh,</hi> to Mar<g ref="char:EOLhyphen"/>chandize, knowing it to be falſe, but doth not offer it, and I. S. knowing this doth ſuccour him.</p>
+               <p>The concluſion is, that I. S. is a traytor <hi>in omnibus,</hi> and I. D. alſo within this Law; the firſt act is, ſlighting of the Seal, and putting of it to the Com<g ref="char:EOLhyphen"/>miſſion and that is treaſon; firſt, becauſe that is ſlit, whereby it is become now no Seale at all; it cannot be ſaid that this halfe is the broad Seale, or that the other halſe is the broad Seale, fer they both together make but one broad Seale, and when he hath cloſed them together againe, and joyned them to a Commiſſion, he hath made the Seala new, for it was no Seal when it was ſlit, but now it is.</p>
+               <p>The ſecond reaſon is, in reſpect of the miſchiefe that doth come by this tranſlating of an old Seale to a new Commiſſion, for both the King and his
+<pb n="10" facs="tcp:112802:7"/>Subjects are as much abuſed, as if it had beene counterfeited; and the reaſon of Lawes and not authority,
+<note place="margin">40. <hi>Aſſ.</hi> 33. <hi>&amp; Broait. treaſ.</hi> 17. <hi>Britta.ca.</hi> 4. <hi>fo.</hi> 10.</note> ought to be our rule to goe by; for <hi>indicandum est legibus non exemples,</hi> and ſo he conceiveth the caſe in <hi>Bro. Tit.</hi> treaſon 3. to be no grand Law this was treaſon alſo at Common-law, as you ſhall finde it expreſt in <hi>Bruam</hi> ca. 4. fol. 10. and in the mirrour of Juſtice ca. 1. ſex. 6. and ſince the ſtatute in the ſame Kings time that this ſtatute was made in and they who knew beſt the reaſons and grounds of this ſtatute, and the meaning thereof, and were at the making therof, by all likelihood, did adjudge it trea<g ref="char:EOLhyphen"/>ſon, to take an old Seale from an old pattent, and to put it to a new one, as in 40. <hi>Aſſ.</hi> pl. 33. and 2. <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 4.33. and <hi>Stamf.</hi> ſaith,
+<note place="margin">40. <hi>Aſſ.p.</hi> 33. &amp; 2 H. 4.33</note> that it was ſo adjudged in his time.</p>
+               <p>In all treaſons that doe concerne the perſon of the King, the judgement ought to be, that he ſhall be hanged, drawne, and quartered; but for o<g ref="char:EOLhyphen"/>ther treaſons that doe not imediately concerne the perſon of the King,
+<note place="margin">1. H. 6.5. 19. H. 6.47. 6. H. 7.13.</note> the judgement ought to be, that he ſhall be drawne and hanged onely, and not that he ſhall be quartered, as it is in 1. H. 6. 5. 19. H. 6. 47.</p>
+               <p>The ſecond act, is the counterfeiting of the Kings money, and the inverting of the armes of the King whereby the Kings Liege people and others may be deceived, for that is a ſufficient alteration to make it treaſon although it be ſuch a one as cannot be diſcern'd without ſpeciall notice taken of it; and this doth appeare by the judgement given in the Star-Chamber for the counter<g ref="char:EOLhyphen"/>feiting of farre things, and it is treaſon for any man to beare the Kings armes, as it appeares in the Earle of <hi>Surreys</hi> caſe.</p>
+               <p>The third act, is the killing of the Officers of the King as of the Lord Kee<g ref="char:EOLhyphen"/>per. and that is treaſon within this Law, for the Lord Keeper is now Chance<g ref="char:EOLhyphen"/>lour, although at that time when this ſtatute was made, the Lord Chancelours Office, and the Lord Keepers Office, were two ſeverall and diſtinct Offices, yet they are made now both one Office,
+<note place="margin">5. <hi>Eliz. c.</hi> 18.25. <hi>E.</hi> 3. <hi>c.</hi> 2.</note> and that is by the ſtatute of 5. <hi>Eliz.</hi> ca. 18. and this ſtatute of 15. <hi>E.</hi> 3. ca. 2. may and doth extend to that ſtatute of 5. <hi>Eliz.</hi> which comes after as is very fully expreſt to the purpoſe, though not to this caſe in <hi>Co.</hi> 4. fo. 4. <hi>Vernons</hi> caſe, the ſtatute of <hi>Marlebrige,</hi> which was made 4.52. H. 3. gave the word of the tennant that held by Knight ſervice, notwithſtanding he had made a feoffment by coluſion: from which time and for 200. yeeres and more, till the ſtatute of the 4. of <hi>H.</hi> 7. ca. 17. which gave the Ward of the heire of <hi>Coſtigaſe,</hi> the heire of <hi>Coſtigaſe,</hi> was not in Ward, and yet it is held in the 27. of <hi>H.</hi> 8.9. fol. that if <hi>Coſtigaſe</hi> after the ſtatute of 4. <hi>H.</hi> 7. makes a feoffment in Fee by colution, to defraud the Lord of his Ward, that this is taken within the equity of the ſtatute of <hi>Marlebridge,</hi> and ſo of divers other caſes that you may ſee there cited in <hi>Vernons</hi> caſe above mentioned.</p>
+               <pb n="11" facs="tcp:112802:7"/>
+               <p> The fourth Act is the bringing in of falſe money like unto our <hi>Engliſh</hi> mo<g ref="char:EOLhyphen"/>ney, for to Merchandize withall: and this is treaſon: for here is not onely an intent, but there is alſo an act joyned with this intent; for he brings over this money, which is the act, with an intent to Merchandize. The ſecond concluſion is, that I. D. is a traytour within this law, and his treaſon doth goe or extend to all the other foure treaſons that were committed by I. S. for this ſuccouring of him after the fact committed, makes him a traytour within this law: and at the Common-law, before the making of this Statute, if a man had ſuccoured one that had committed treaſon, knowing him to have committed it he had bin a traytor: and ſo if one doth now ſuccour a fellon, it is fellony in the ſuccorour; and why ſhould it not be ſo in our caſe? for the reaſon of law in our caſe is farre ſtronger that the ſuccorour of a traytour, ſhould be a traytour, then the ſuccouring of a fellon ſhould be a fellon, becauſe the offence is greater, and therefore it is an aggravation of his puniſhment, to make him that no man ſhall receive or ſuccour him; for we ſee the law inflicts a greater puniſhment upon a traytor then upon a fel<g ref="char:EOLhyphen"/>lon; and that is to deterre men from ſuch acts as thoſe are: and ſo it ap<g ref="char:EOLhyphen"/>peres that there is reaſon why he ſhould be a traytour, although he be not within the words of the Statute. And therefore it is in the reaſon of the Sta<g ref="char:EOLhyphen"/>tute. Another reaſon is becauſe the Statute doth not ſay who ſhall be trai<g ref="char:EOLhyphen"/>tors, but what ſhall be treaſon, and this word treaſon ſhall be taken with all its concomitants and accidents as it was at Common-law; and then that was a concomitant to treaſon that the ſuccoror ſhould be a traytor.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> But it is ſo in 3. H. 7. fol. 10. that a ſuccoror in treaſon is no traitour.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> The reaſon of that caſe there is becauſe the judgement was, that he know<g ref="char:EOLhyphen"/>ing <hi>eam <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roditionem predictam perpetraſſe felonice hospitalis fuit:</hi> and this was not grand, becauſe he was in that caſe indicted as an acceſſary and was not in<g ref="char:EOLhyphen"/>dicted as a traytour; for there can be <hi>no acceſſaries in treaſons,</hi>
+                  <note place="margin">
+                     <hi>Fit. tit. Cor.</hi> 55. <hi>Bro. tit. Cor.</hi> 135.</note> as there is in fe<g ref="char:EOLhyphen"/>lonies, and he is <hi>Enz. titl. Coron.</hi> 55. <hi>Bro. tit. Coron.</hi> 135. and for expreſſe au<g ref="char:EOLhyphen"/>thority it is in 1. H. 6.5. for if this Statute had made felony treaſon and one doth commit that treaſon, and A. ſuccours him, knowing of it, it had bin<g ref="char:EOLhyphen"/>abſurd for to have ſaid that the ſuccorour ſhould have bin onely a felon; but our caſe is ſtronger, for this Law doth not make any one treaſon, but onely declares what ſhall be adjudged treaſon, but if this ſtatute had expreſt that all abettors ſhould have beene traytors, that then the receivers or ſuccourers ſhould not have beene traytors within this Law, for then the intent of the makers would plainly appeare, that it was not intended that the receivers or ſuccourers after the fact ſhould not have beene within this Law, but onely the Abettors before and at the fact.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="12" facs="tcp:112802:8"/>
+               <head>The third Lecture.</head>
+               <p>This Lecture is of petty treaſon, and petty treaſon do very little differ from felonies, for by the pardon of all felonies, all petty treaſons are pardoned. <hi>Stam.</hi> as it is fol. 2.6.
+<note place="margin">
+                     <hi>Stam. fo.</hi> 2.6.</note> But it hath ſome correſpondency with other treaſors; and that is in reſpect of the duty and obedience that is dueeach to other; as it is from the Subjects to the King, ſo from the ſervant to the Maſter. All ſervants although they receive no wages, but onely meat and drinke are with<g ref="char:EOLhyphen"/>in this Law, a ſervant that is not compellable to ſerve by this Statute; yet if he doeth ſerve he is within this Law, and ſo is a Bailiffe of a Mannor, for if he kill that Lord of the Mannor, it is p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tty treaſon within this Law; Ste<g ref="char:EOLhyphen"/>ward of a Court Leet or Court Barron, is not within this law: a wife divorced for adultery, is within this law, although a Queene divorſt for adultery be not within this law, as ye have heard before.</p>
+               <p>Ordinaties are of two ſorts:
+<note place="margin">
+                     <hi>Ordinarius loci, ordinari<g ref="char:EOLhyphen"/>us Dioceſ.</hi>
+                  </note> 
+                  <hi>Ordinarius loci, Ordinarius Dioceſ.</hi> and the ſuperiour Ordinares they are all within this law <hi>Ordinarius loci,</hi> as that of the Deane of <hi>Westminster; Ordinarius Dioceſ.</hi> is the Biſhop of the Di<g ref="char:EOLhyphen"/>oceſſe, and the ſuperiour Ordinary is the Archbiſhop; they are all within this law in reſpect of the obedience that is due to them. A childe killing his Fa<g ref="char:EOLhyphen"/>ther or his Mother, he is within this law, as you heard before, although he he not named in it, yet there is a majority of treaſon in it more then that of a ſervant, and therefore is within that intent and reaſon of the law, and ſo it is in <hi>Dalton:</hi> If one command another to kill his Maſter, who doeth it, yet it is not treaſon within this law, unleſſe he be there preſent when the fact is done,
+<note place="margin">40. <hi>Aſſ.</hi> 25.</note> 40. <hi>Aſſ.</hi> 25. If a wife command a ſervant to kill her husband, and he doeth it; it is treaſon in both within this law: and ſo it appeares that Abettors and Partners are within the laſt part of this Statute concerning petty treaſons, although they are not named. If a ſervant goes from his Maſter, and then kils him; this is petty treaſon within this law; for it ſhall be intended that he had ſuch an intention to kill him before he departed out of his ſervice,
+<note place="margin">
+                     <hi>Bro. Titl. treaſon</hi> 15.33. <hi>Aſſ.</hi> 7.</note> 33. <hi>Aſſ.</hi> 7. And ſo is a quarrell in <hi>Weſtminſter</hi> Hall the Courts ſitting, and then goe out of the Hall into the Pallace-Yard, and then one ſtrikes the other, this is puniſhable with the ſame puniſhment, as if he had ſtruck him in the Hal, for the puniſhment ſhal be to the loſſe of his hand, and the forfeiture of his goods, and perpetuall impriſonment, as it is in <hi>Dacies</hi> caſe,
+<note place="margin">1. <hi>and</hi> 2. <hi>Eliz. Diar.</hi> 188.21. <hi>E.</hi> 3.17.21. <hi>Aſſ.</hi> 30.</note> in the 1. and 2. of <hi>Eliz. Diar</hi> 188. but ſome of theſe offences were trea<g ref="char:EOLhyphen"/>ſon at the Common-law, as the ſonne killing of the father, 21. <hi>E.</hi> 3.17. and of a maid-ſervant killing her Miſtris. 21. <hi>Aſſ.</hi> 30. if a ſervant kill his Miſtris, this is petty treaſon within this Law, and yet ſhe is not named, but is to be
+<pb n="13" facs="tcp:112802:8"/>intended upon the ſame reaſon with his Maſter,
+<note place="margin">19. <hi>H.</hi> 6.47.</note> and the obedience is due to the one aſwell as to the other 19. <hi>H.</hi> 6.37.</p>
+               <p>Treaſon ought to be fully proved as it appeares by the words of the ſtatute and that is to be by two witneſſes, the proving of every treaſon,
+<note place="margin">1. <hi>E.</hi> 6.</note> and the ſta<g ref="char:EOLhyphen"/>tute of 1. <hi>E.</hi> 6. is not repealed as to this point by the ſtatute of <hi>Ph.</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> but onely the triall in the Counties, and not concerning witneſles, as by that ſtatute more at large appeares; and in the 14. of <hi>Eliz.</hi> in the Lord <hi>Lum<g ref="char:EOLhyphen"/>lyer</hi> caſe;
+<note place="margin">14. <hi>Eliz. Lumlies caſe</hi> 13. H. 8. 11. 12. <hi>Bro. tit. tre,</hi> 29.33.</note> it was agreed that the ſtatute 1. <hi>E.</hi> 6. was not reverſed by the old ſtatute. The triall of Lords of Parliament ought to be <hi>per pares;</hi> but in ſome caſes he ſhall not have his triall <hi>per pares,</hi> as in an appeale, but in an indict<g ref="char:EOLhyphen"/>ment he ſhall, and the indictment ſhall be received into Parliament, becauſe an Indictment is the Kings ſuit, and the ſtatute of <hi>Magna Charta</hi> is <hi>nec ſuper cun ibimus, nec ſuper eum mittimus,</hi> and this is to be intended in the Kings ſuit the 10. <hi>Ed.</hi> 4.6.
+<note place="margin">10. <hi>E.</hi> 4.6.</note>
+               </p>
+               <p>But a Lord may refuſe his tryall <hi>per paces,</hi> if he will; as it was adjudged 1. of <hi>Phil.</hi> and <hi>Mar. Br.</hi> in the Lord <hi>Grayes</hi> caſe,
+<note place="margin">1, <hi>Phi. Ma. Bro. Lo.Gr. caſe Pa.</hi> 13. <hi>Jac.</hi>
+                  </note> but in the Lord of <hi>Caſtlehavens</hi> caſe, it was held the contrary, <hi>if a man be kil'd in rebellion he ſhall forfeit his lands and is a traytor;</hi> but <hi>there ought to be an inquiſition taken of him, ond that ſhall be a ſufficient triall.</hi> As the caſe in <hi>Pa.</hi> 13. <hi>Jac. Br.</hi> if a man doe caſt himſelfe into the water and never is found after; yet if it be preſented by the Juſtice of Peace, this is ſufficient to make him forfeit his goods.</p>
+               <p>As for thoſe treaſons which are not here declared, the Judges authority take indictments of them; but they ought not to be proceeded to judge<g ref="char:EOLhyphen"/>ment, for nothing is to be done in point of judgement in ſuch a caſe, till it be adjudged and declared in Parliament, and all other treaſons that are not here declared, ought to be felonies at the leaſt, becauſe felonies were made treaſons before the ſtatute; and becauſe the words of the ſtatute are, that it ought to be treaſon or felony; but if it be but once declared in Parliament, unleſſe there be a Proviſo that the Judges ſhall not proceed upon the like caſes, they may afterwards proceed by force of this ſtatute.</p>
+               <p>They are treaſons at Common-law, notwithſtanding the ſtatute 1. Q. <hi>Mary;</hi> for that did take away thoſe treaſons, and Declarations of treaſons, that were made in Parliaments from the time of our ſtatute to the 1. of Q. <hi>Mary,</hi> but doth not take away the declarative power in our ſtatute mentioned, nor the Common-law, but they doe remains ſtill as before.</p>
+               <trailer>FINIS.</trailer>
+               <pb n="12" facs="tcp:112802:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:112802:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
